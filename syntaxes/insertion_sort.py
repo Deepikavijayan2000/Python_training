@@ -11,3 +11,5 @@ def insertion_sort(arr):
 
 insertion_sort(A)
 print(A)
+
+#to sort in descending order change the condition in if to (arr[j-1] < arr[j])
