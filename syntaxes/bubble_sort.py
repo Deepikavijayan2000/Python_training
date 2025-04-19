@@ -12,3 +12,6 @@ def bubble_sort(arr):
 
 bubble_sort(A)
 print(A)
+
+#if you want to sort the array in descending order 
+#then change the condition in if to (arr[i-1]<arr[i])
